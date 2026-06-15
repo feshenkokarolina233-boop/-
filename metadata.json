@@ -1,0 +1,6 @@
+{
+  "name": "Neon Tears",
+  "description": "Премиальный сайт тату-студии Neon Tears в Киеве — эстетика темного минимализма, неоновые акценты и искусство татуировки.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
